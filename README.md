@@ -19,5 +19,5 @@
 </div>
 
   <br>
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Minji+✋;I'm+a+front-end+developer&color=F4631E)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Minji+✋;I'm+a+front-end+developer&color=#F4631E)](https://git.io/typing-svg)
   <br>
