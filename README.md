@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vue.js&logoColor=white"/>
 </p>
-<br>
 <h3 align="center">⚒️ Tools ⚒️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white"/>
