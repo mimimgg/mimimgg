@@ -1,1 +1,1 @@
-![Welcome To MINJI's GitHub](http://googleusercontent.com/image_generation_content/0)
+![나의 프로필 이미지](images/my_profile_image.png)
