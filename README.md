@@ -16,3 +16,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
+
+[![GitHub Stats](https://github-stats-transparent.vercel.app/api?username=mimimgg)](https://github.com/rahul-jha98/github-stats-transparent)
+[![Top Langs](https://github-stats-transparent.vercel.app/api/top-langs/?username=mimimgg)](https://github.com/rahul-jha98/github-stats-transparent)
