@@ -1,10 +1,8 @@
-<p align="center">
-  ![나의 프로필 이미지](images/my_profile_image2.png)
-</p>
+![나의 프로필 이미지](images/my_profile_image2.png)
 
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Minji+✋;I'm+a+front-end+developer&color=%23F4631E&center=true)](https://github.com/mimimgg)
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Minji+✋;I'm+a+front-end+developer&color=%23F4631E&center=true)](https://github.com/mimimgg)
+</align>
+<br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <p align="center">
@@ -21,3 +19,4 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
+
