@@ -1,6 +1,6 @@
 ![나의 프로필 이미지](images/my_profile_image2.png)
 
-<div align="center">
+<div style="display: flex; justify-content: center;">
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Minji+✋;I'm+a+front-end+developer)](https://git.io/typing-svg)
 </div>
 <br>
