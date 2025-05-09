@@ -1,8 +1,6 @@
 <div align="center">
   <img src="images/my_profile_image2.png" alt="나의 프로필 이미지">
-  <br>
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Minji+✋;I'm+a+front-end+developer)](https://git.io/typing-svg)
-  <br>
+
   <h3>✨ Tech Stack ✨</h3>
   <p>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -19,3 +17,7 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   </p>
 </div>
+
+  <br>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Minji+✋;I'm+a+front-end+developer&color=F4631E)](https://git.io/typing-svg)
+  <br>
