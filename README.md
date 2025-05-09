@@ -1,4 +1,6 @@
 ![나의 프로필 이미지](images/my_profile_image2.png)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -17,5 +19,3 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 
-[![GitHub Stats](https://github-stats-transparent.vercel.app/api?username=mimimgg)](https://github.com/rahul-jha98/github-stats-transparent)
-[![Top Langs](https://github-stats-transparent.vercel.app/api/top-langs/?username=mimimgg)](https://github.com/rahul-jha98/github-stats-transparent)
