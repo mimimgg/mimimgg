@@ -17,13 +17,11 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 
-<table>
-  <tr>
-    <td>
-      [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mimimgg&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-    <td>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimimgg&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mimimgg&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimimgg&layout=compact&theme=transparent" alt="Top Langs" />
+  </a>
+</p>
