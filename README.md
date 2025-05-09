@@ -1,6 +1,6 @@
 ![나의 프로필 이미지](images/my_profile_image2.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Minji+✋;I'm+a+front-end+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Minji+✋;I'm+a+front-end+developer)](https://github.com/mimimgg)
 <br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
