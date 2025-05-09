@@ -17,15 +17,5 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 
-<div style="display: flex;">
-  <div style="flex: 1; margin-right: 10px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mimimgg&show_icons=true&theme=transparent" alt="GitHub Stats" />
-    </a>
-  </div>
-  <div style="flex: 1; margin-left: 10px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimimgg&layout=compact&theme=transparent" alt="Top Langs" />
-    </a>
-  </div>
-</div>
+[![GitHub Stats](https://github-stats-transparent.vercel.app/api?username=mimimgg)](https://github.com/rahul-jha98/github-stats-transparent)
+[![Top Langs](https://github-stats-transparent.vercel.app/api/top-langs/?username=mimimgg)](https://github.com/rahul-jha98/github-stats-transparent)
