@@ -17,5 +17,5 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 
-[![GitHub Stats](https://github-stats-transparent.vercel.app/api?username=mimimgg)](https://github.com/rahul-jha98/github-stats-transparent)
-[![Top Langs](https://github-stats-transparent.vercel.app/api/top-langs/?username=mimimgg)](https://github.com/rahul-jha98/github-stats-transparent)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mimimgg&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimimgg&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
